@@ -1,0 +1,17 @@
+/.apt_generated/
+/.apt_generated_tests/
+# maven
+target/
+
+# eclipse
+.classpath
+.settings/
+.project
+.factorypath
+
+# IDEA
+.idea/
+*.iml
+
+# log config
+log4j2.xml
